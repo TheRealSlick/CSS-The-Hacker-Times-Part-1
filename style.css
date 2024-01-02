@@ -94,6 +94,8 @@ section img {
 
 /*Classes*/
 .newspaper-container {
+    width: 80%;
+    margin: auto;
     background-color: white;
     box-shadow: 5px 5px #ddd;
     border-radius: 2em;
